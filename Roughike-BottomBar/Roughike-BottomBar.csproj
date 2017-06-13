@@ -19,7 +19,7 @@
     <PackageVersion>1</PackageVersion>
     <Authors>Ikomobi</Authors>
     <Description>Android Binding project
-Roughike BottomBar 2.3.2</Description>
+Roughike BottomBar 2.3.1</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
